@@ -1,0 +1,17 @@
+Original Filename: sample_t2.txt
+Tested Input:
+-400
+50
+15
+26
+35
+-50
+-156
+
+Program Output:
+D:\Bodey\eclipse-workspace\HW1\src>a.exe
+Please Enter filename
+sample_t2.txt
+Filename Entered: sample_t2.txt
+Min Distance: 9
+Two numbers for min distance: 26 and 35
