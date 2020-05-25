@@ -13,7 +13,7 @@
 ## HW 5
   ts.cpp: Given adjacency matrix for a Graph, will output the topologic sort order.
 ## HW 6
-  heap.cpp: Operations on a given heap. Checks for a heap structure. Insert new value. Delete Max Value. Heapify given input.\
+  heap.cpp: Operations on a given heap. Checks for a heap structure. Insert new value. Delete Max Value. Heapify given input.
   And perform heapsort.
   
   
